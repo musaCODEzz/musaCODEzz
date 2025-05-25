@@ -44,7 +44,11 @@
 
 <div align="center">
   
-  [![Musa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=musaCODEzz&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Musa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blvcode&theme=dracula&hide_border=true)](https://wakatime.com/@blvcode)
+
+<img src="https://wakatime.com/share/@blvcode/d6695a46-dc34-44fd-9475-d2cf8e790b25.svg" height="400"/>
+
+<img src="https://wakatime.com/badge/user/blvcode.svg" alt="Total time coded" />
   
 </div>
 
