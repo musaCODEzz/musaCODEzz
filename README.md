@@ -48,7 +48,7 @@
 
 <img src="https://wakatime.com/share/@blvcode/d6695a46-dc34-44fd-9475-d2cf8e790b25.svg" height="400"/>
 
-<img src="https://wakatime.com/badge/user/blvcode.svg" alt="Total time coded" />
+<img src="https://wakatime.com/badge/user/018cd069-6e3f-4f14-94a1-eeebaa01b5c2.svg" alt="Total time coded since May 18 2023" />
   
 </div>
 
