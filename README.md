@@ -112,21 +112,21 @@ I am a passionate **Full-Stack Software Engineer** focused on engineering robust
 
 <div align="center">
   <a href="https://github.com/musaCODEzz">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=musaCODEzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Musa's GitHub stats" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaCODEzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=musaCODEzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Musa's GitHub stats" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=musaCODEzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaCODEzz&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=musaCODEzz&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musaCODEzz&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=musaCODEzz&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -134,25 +134,17 @@ I am a passionate **Full-Stack Software Engineer** focused on engineering robust
 ### ⏱️ WakaTime Live Stats
 
 <div align="center">
-
-[![Musa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blvcode&theme=tokyonight&hide_border=true)](https://wakatime.com/@blvcode)
-
-<br/>
-
-<img src="https://wakatime.com/share/@blvcode/d6695a46-dc34-44fd-9475-d2cf8e790b25.svg" height="300" alt="WakaTime chart" />
-
-<p>
-  <img src="https://wakatime.com/badge/user/018cd069-6e3f-4f14-94a1-eeebaa01b5c2.svg" alt="Total time coded" />
-</p>
-
+  <a href="https://wakatime.com/@blvcode" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=blvcode&theme=tokyonight&hide_border=true&border_radius=10" alt="Musa's WakaTime stats" />
+  </a>
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/musaCODEzz/musaCODEzz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musaCODEzz&theme=tokyonight" alt="Contribution Overview" />
 </div>
 
 ---
