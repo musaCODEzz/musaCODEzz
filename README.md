@@ -21,7 +21,7 @@
 I am a **Full-Stack Software Engineer & Backend Architect** specializing in scalable API design, distributed architectures, and production-hardened microservices. I build fault-tolerant systems with clean domain boundaries, rigorous automated testing, and slick, accessible user interfaces.
 
 - 🔭 **Current Focus**: Architecting high-throughput backend APIs with TypeScript, Node.js, Express, and MongoDB/PostgreSQL.
-- 🛡️ **Core Principles**: Defensive API design, strict type safety, zero-trust security (JWT/OAuth), and 100% automated test coverage.
+- 🛡️ **Core Principles**: Defensive API design, strict type safety, zero-trust security (JWT/OAuth), and automated test coverage.
 - 💬 **Ask me about**: REST API design, database indexing & aggregation, Docker workflows, authentication patterns, and cloud CI/CD.
 
 ---
@@ -35,11 +35,11 @@ I am a **Full-Stack Software Engineer & Backend Architect** specializing in scal
       <p align="center">
         <a href="https://github.com/musaCODEzz/autolog-backend"><b>View Source Code</b></a>
       </p>
-      <p>Kenya's digital vehicle service passport, anti-rollback odometer verification engine, and verified spare-parts RFQ platform designed to end used-car fraud in East Africa.</p>
+      <p>Kenya's digital vehicle service passport, anti-rollback odometer verification engine, and verified spare-parts RFQ platform designed to eliminate used-car fraud in East Africa.</p>
       <ul>
         <li><b>Anti-Clocking Curve:</b> Immutable odometer tracking flagging rollback fraud mathematically.</li>
         <li><b>Privacy Masking:</b> Publicly verifiable digital passports (<code>autolog.ke/passport/:slug</code>) with masked plates (<code>KD* ***P</code>).</li>
-        <li><b>Localization:</b> Custom Kenyan number plate & phone number normalizers (E.164 / 254).</li>
+        <li><b>Localization:</b> Custom Kenyan number plate & phone number normalizers (E.164 / +254).</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -105,7 +105,7 @@ I am a **Full-Stack Software Engineer & Backend Architect** specializing in scal
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com/?user=musaCODEzz&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=musaCODEzz&theme=tokyonight&hide_border=true&border_radius=10&starting_year=2019" alt="GitHub Streak" />
 </div>
 
 ---
