@@ -2,63 +2,69 @@
   <h1>Hi there, I'm Musa 👋</h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=2E97F7&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Engineer;Backend+%26+Cloud+API+Architect;TypeScript+%26+Python+Specialist;Building+Scalable+Modern+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Backend+%26+Cloud+API+Architect;TypeScript+%26+Node.js+Specialist;Building+High-Availability+Distributed+Systems" alt="Typing SVG" />
   </p>
 
   <p align="center">
+    <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-0052CC?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=flat-square" alt="Status" />
     <a href="https://github.com/musaCODEzz">
       <img src="https://komarev.com/ghpvc/?username=musaCODEzz&color=2E97F7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Roles-brightgreen?style=flat-square" alt="Status" />
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Engineering Profile
 
-I am a passionate **Full-Stack Software Engineer** focused on engineering robust, high-performance backends, RESTful microservices, and slick, responsive frontend interfaces.
+I am a **Full-Stack Software Engineer & Backend Architect** specializing in scalable API design, distributed architectures, and production-hardened microservices. I build fault-tolerant systems with clean domain boundaries, rigorous automated testing, and slick, accessible user interfaces.
 
-- 🔭 **Currently Building**: Scalable web applications and production-ready distributed backends.
-- 🚀 **Latest Release**: **[StackPulse](https://blog-api-frontend-neon.vercel.app/)** — A full-stack developer blogging platform powered by TypeScript, Express 5, MongoDB, and React.
-- 🛠️ **Core Strengths**: Clean Architecture, RESTful API design, JWT Auth & Security, Cloud Deployments, Automated CI/CD & Unit/Integration Testing.
-- 💬 **Ask me about**: Node.js/Express, TypeScript, Python, Database Design, Docker, and Scalable Cloud Architectures.
-- ⚡ **Fun Fact**: When I'm not architecting APIs, I enjoy solving complex algorithmic challenges and exploring new developer tools.
+- 🔭 **Current Focus**: Architecting high-throughput backend APIs with TypeScript, Node.js, Express, and MongoDB/PostgreSQL.
+- 🛡️ **Core Principles**: Defensive API design, strict type safety, zero-trust security (JWT/OAuth), and 100% automated test coverage.
+- 💬 **Ask me about**: REST API design, database indexing & aggregation, Docker workflows, authentication patterns, and cloud CI/CD.
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 Featured Engineering Systems
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🚀 StackPulse (Blog Platform)</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ AutoLog KE (Vehicle Passport API)</h3>
       <p align="center">
-        <a href="https://blog-api-frontend-neon.vercel.app/"><b>Live Frontend Demo</b></a> | 
-        <a href="https://blog-api-backend-mh0s.onrender.com/api-docs"><b>Swagger API Docs</b></a>
+        <a href="https://github.com/musaCODEzz/autolog-backend"><b>View Source Code</b></a>
       </p>
-      <p>A full-stack, production-ready blogging ecosystem featuring interactive Swagger documentation, secure JWT authentication, transactional email password recovery via Resend, and automated integration test suites.</p>
-      <p>
+      <p>Kenya's digital vehicle service passport, anti-rollback odometer verification engine, and verified spare-parts RFQ platform designed to end used-car fraud in East Africa.</p>
+      <ul>
+        <li><b>Anti-Clocking Curve:</b> Immutable odometer tracking flagging rollback fraud mathematically.</li>
+        <li><b>Privacy Masking:</b> Publicly verifiable digital passports (<code>autolog.ke/passport/:slug</code>) with masked plates (<code>KD* ***P</code>).</li>
+        <li><b>Localization:</b> Custom Kenyan number plate & phone number normalizers (E.164 / 254).</li>
+      </ul>
+      <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express%205-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">⚡ Enterprise REST API Engine</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ StackPulse (Developer Publishing Platform)</h3>
       <p align="center">
-        <a href="https://github.com/musaCODEzz/BLOG-API-BACKEND"><b>View Source Code</b></a>
+        <a href="https://blog-api-frontend-neon.vercel.app/"><b>Live Platform</b></a> | 
+        <a href="https://blog-api-backend-mh0s.onrender.com/api-docs"><b>Interactive Swagger Docs</b></a>
       </p>
-      <p>Hardened Node.js backend infrastructure featuring rate-limiting, Helmet security headers, Vitest integration testing, Docker containerization, and structured transactional logging.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js%2022-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" />
+      <p>A full-stack, production-grade developer storytelling and publishing engine with interactive API documentation, transactional auth, and real-time social metrics.</p>
+      <ul>
+        <li><b>Security & Auth:</b> JWT auth, Google OAuth 2.0, and transactional password recovery via Resend.</li>
+        <li><b>Engagement Engine:</b> Atomic like/clap toggles, bookmark reading lists, reading time calculator, and view counters.</li>
+        <li><b>Documentation:</b> Complete OpenAPI / Swagger UI suite with automated Vitest suites.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -66,72 +72,45 @@ I am a passionate **Full-Stack Software Engineer** focused on engineering robust
 
 ---
 
-### 🛠️ Tech Stack & Toolbelt
+### 🛠️ Technical Toolbelt
 
 <div align="center">
 
-#### Languages
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-#### Backend & APIs
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=rest&logoColor=white" alt="REST" />
-
-#### Frontend Frameworks & Styling
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
-#### Databases & Storage
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-#### DevOps, Cloud & Tooling
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | `TypeScript` • `JavaScript (ES6+)` • `Python` • `SQL` • `HTML5 / CSS3` |
+| **Backend & APIs** | `Node.js (v20+)` • `Express.js` • `RESTful Architecture` • `Swagger / OpenAPI` • `Flask` • `Django` |
+| **Databases** | `MongoDB & Mongoose` • `PostgreSQL` • `Redis` • `Schema Design & Aggregations` |
+| **Frontend** | `React` • `Vite` • `Tailwind CSS` • `Next.js` • `State Management` |
+| **DevOps & Cloud** | `Docker` • `Git / GitHub Actions` • `Render` • `Vercel` • `Linux` • `AWS (EC2/S3)` |
+| **Quality & Security** | `Vitest / Jest` • `Helmet.js` • `Rate Limiting` • `Data Sanitization (NoSQL injection guard)` |
 
 </div>
 
 ---
 
-### 📊 GitHub & Coding Analytics
+### 📊 Live Coding & GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/musaCODEzz">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=musaCODEzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Musa's GitHub stats" />
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=musaCODEzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=musaCODEzz&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=musaCODEzz&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="185px" src="https://github-stats-extended.vercel.app/api?username=musaCODEzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&cache_seconds=1800" alt="Musa's GitHub Stats" />
+      </td>
+      <td>
+        <img height="185px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=musaCODEzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://streak-stats.demolab.com/?user=musaCODEzz&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
 
-### ⏱️ WakaTime Live Stats
+### ⏱️ WakaTime Coding Activity
 
 <div align="center">
   <a href="https://wakatime.com/@blvcode" target="_blank">
@@ -141,38 +120,16 @@ I am a passionate **Full-Stack Software Engineer** focused on engineering robust
 
 ---
 
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musaCODEzz&theme=tokyonight" alt="Contribution Overview" />
-</div>
-
----
-
-### 🔗 Connect With Me
+### 📬 Connect With Me
 
 <div align="center">
   <a href="mailto:musamaxwell15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-musamaxwell15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/musaCODEzz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/musaCODEzz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://medium.com/@musaCODEzz" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://dev.to/musaCODEzz" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/musaCODEzz" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
